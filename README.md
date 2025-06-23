@@ -1,2 +1,2 @@
 # World-life-expectancy-analysis-by-country-and-development-status
-This project investigates global life expectancy patterns, focusing on how a country's development status influences average life expectancy. 
+This project investigates global life expectancy patterns, focusing on how a country's development status influences average life expectancy. By analyzing health, economic, and demographic data across countries, the project highlights disparities between developed and developing nations and uncover key factors that contribute to longevity.
